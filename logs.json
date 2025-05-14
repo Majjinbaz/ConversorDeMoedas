@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-05-14T20:40:48.121046900Z",
+  "from": "BRL",
+  "to": "USD",
+  "rate": 0.1765,
+  "input": 100.0,
+  "output": 17.65
+}
+{
+  "timestamp": "2025-05-14T20:40:48.310885400Z",
+  "from": "BRL",
+  "to": "EUR",
+  "rate": 0.159,
+  "input": 100.0,
+  "output": 15.9
+}
+{
+  "timestamp": "2025-05-14T20:40:48.495040300Z",
+  "from": "BRL",
+  "to": "GBP",
+  "rate": 0.1337,
+  "input": 100.0,
+  "output": 13.370000000000001
+}
+{
+  "timestamp": "2025-05-14T20:40:48.702920200Z",
+  "from": "BRL",
+  "to": "ARS",
+  "rate": 198.7041,
+  "input": 100.0,
+  "output": 19870.41
+}
+{
+  "timestamp": "2025-05-14T20:40:48.893894100Z",
+  "from": "BRL",
+  "to": "AOA",
+  "rate": 165.2172,
+  "input": 100.0,
+  "output": 16521.719999999998
+}
+{
+  "timestamp": "2025-05-14T20:40:49.447563100Z",
+  "from": "BRL",
+  "to": "JPY",
+  "rate": 26.1284,
+  "input": 100.0,
+  "output": 2612.84
+}
+{"timestamp":"2025-05-14T20:41:26.984040400Z","from":"BRL","to":"USD","rate":0.1765,"input":100.0,"output":17.65}
+{"timestamp":"2025-05-14T20:41:27.171665900Z","from":"BRL","to":"EUR","rate":0.159,"input":100.0,"output":15.9}
+{"timestamp":"2025-05-14T20:41:27.350722200Z","from":"BRL","to":"GBP","rate":0.1337,"input":100.0,"output":13.370000000000001}
+{"timestamp":"2025-05-14T20:41:27.532886200Z","from":"BRL","to":"ARS","rate":198.7041,"input":100.0,"output":19870.41}
+{"timestamp":"2025-05-14T20:41:27.714868600Z","from":"BRL","to":"AOA","rate":165.2172,"input":100.0,"output":16521.719999999998}
+{"timestamp":"2025-05-14T20:41:28.232876300Z","from":"BRL","to":"JPY","rate":26.1284,"input":100.0,"output":2612.84}
+{
+  "timestamp": "2025-05-14T20:43:34.261563100Z",
+  "from": "BRL",
+  "to": "USD",
+  "rate": 0.1765,
+  "input": 100.0,
+  "output": 17.65
+}
